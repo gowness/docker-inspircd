@@ -1,2 +1,2 @@
 # docker-inspircd
-inspircd docker image
+inspircd docker image.
